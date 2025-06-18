@@ -38,7 +38,7 @@
 
 ## 🔗 Live Demo
 
-👉 [[[fitclub-digital.vercel.app](https://fitclub-roan.vercel.app/)](https://fitclub-roan.vercel.app/)](https://fitclub-roan.vercel.app/)
+👉 https://fitclub-roan.vercel.app/
 
 
 ## 📧 Email
